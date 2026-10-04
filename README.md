@@ -1,2 +1,2 @@
 # LEARN-CPP
-Kumpulan Latihan dan Project C++
+My C++ learning journey, exercises, and projects.
